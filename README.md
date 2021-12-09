@@ -1,7 +1,7 @@
 # Statistical-Programming-Project
 
 
-Problem statement
+**Problem statement**
 
 1. Goal is to analyze price with different features of avocado.
 
