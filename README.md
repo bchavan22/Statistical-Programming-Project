@@ -1,9 +1,9 @@
 # Statistical-Programming-Project
 
 
-##**Problem statement**
+**Problem statement**
 
-###**Problem statement on Avocado dataset with focus on which part of region supply more avocado in U.S?**
+**Problem statement on Avocado dataset with focus on which part of region supply more avocado in U.S?**
 
 1. Goal is to analyze price with different features of avocado.
 
