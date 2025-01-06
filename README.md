@@ -13,3 +13,4 @@
 
 4. Finding more about insight sale and try to predict price so that study will provide more strategical solution to marketer of avocado.
 
+
